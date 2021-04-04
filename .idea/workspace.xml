@@ -1,0 +1,651 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bb1c2988-0b10-4aaa-a19f-01520e4bd417" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MMC/Trabajo Practico de bajo nivel/TP Bajo Nivel - MMC.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="392" column="27" selection-start-line="392" selection-start-column="27" selection-end-line="392" selection-end-column="27" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/asdas.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1776">
+              <caret line="243" column="45" selection-start-line="243" selection-start-column="45" selection-end-line="243" selection-end-column="45" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>informe</find>
+      <find>cantDeDemorad</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Proyecto Python.py" />
+        <option value="$PROJECT_DIR$/Ruleta otra version" />
+        <option value="$PROJECT_DIR$/sdf" />
+        <option value="$PROJECT_DIR$/CalculadorCostos.py" />
+        <option value="$PROJECT_DIR$/../../prueba2_Sqlite.py" />
+        <option value="$PROJECT_DIR$/../../prueba1_sqlite.py" />
+        <option value="$PROJECT_DIR$/asd" />
+        <option value="$PROJECT_DIR$/Ruleta" />
+        <option value="$PROJECT_DIR$/Simulador de Distribucion Uniforme" />
+        <option value="$PROJECT_DIR$/Distribucion Uniforme.py" />
+        <option value="$PROJECT_DIR$/Distribucion Gamma.py" />
+        <option value="$PROJECT_DIR$/Distribucion Exponencial.py" />
+        <option value="$PROJECT_DIR$/Distribucion Normal.py" />
+        <option value="$PROJECT_DIR$/Distribucion Binomial.py" />
+        <option value="$PROJECT_DIR$/Distribucion Poisson.py" />
+        <option value="$PROJECT_DIR$/Distribucion Empirica.py" />
+        <option value="$PROJECT_DIR$/Disitrbuciones/Distribucion Uniforme.py" />
+        <option value="$PROJECT_DIR$/Disitrbuciones/Distribucion Exponencial.py" />
+        <option value="$PROJECT_DIR$/Disitrbuciones/Distribucion Gamma.py" />
+        <option value="$PROJECT_DIR$/Disitrbuciones/Distribucion Normal.py" />
+        <option value="$PROJECT_DIR$/Disitrbuciones/Distribucion Poisson.py" />
+        <option value="$PROJECT_DIR$/Disitrbuciones/Distribucion Binomial.py" />
+        <option value="$PROJECT_DIR$/Disitrbuciones/Distribucion Empirica.py" />
+        <option value="$PROJECT_DIR$/AdivinaDistribuciones/Adivinar.py" />
+        <option value="$PROJECT_DIR$/asdsdas.py" />
+        <option value="$PROJECT_DIR$/asdasdasds.py" />
+        <option value="$PROJECT_DIR$/ChiCuadrado.py" />
+        <option value="$PROJECT_DIR$/ChiCuadrado/ChiCuadrado.py" />
+        <option value="$PROJECT_DIR$/adasda.py" />
+        <option value="$PROJECT_DIR$/Genracion de Numeros Cuadrados/NumerosCuadrados.py" />
+        <option value="$PROJECT_DIR$/Generacion de Numeros Cuadrados/asdasd.py" />
+        <option value="$PROJECT_DIR$/Tests/ChiCuadrado/ValoresGeneradosRandomOrg/ValoresRandomOrg.py" />
+        <option value="$PROJECT_DIR$/Corridas.py" />
+        <option value="$PROJECT_DIR$/Tests/Series/Serie.py" />
+        <option value="$PROJECT_DIR$/Tests/Corridas/RandomOrg/RandomOrg.py" />
+        <option value="$PROJECT_DIR$/Tests/Corridas/GCL/GCL.py" />
+        <option value="$PROJECT_DIR$/Tests/ChiCuadrado/GCL/GCL.py" />
+        <option value="$PROJECT_DIR$/Tests/ChiCuadrado/ValoresGenereradosPython/ValoresRandomUniformes.py" />
+        <option value="$PROJECT_DIR$/pytube.py" />
+        <option value="$PROJECT_DIR$/MM1/MM1.py" />
+        <option value="$PROJECT_DIR$/asdasd.py" />
+        <option value="$PROJECT_DIR$/MMC/MMC Dinamico.py" />
+        <option value="$PROJECT_DIR$/MMC/MMC.py" />
+        <option value="$PROJECT_DIR$/MMC/MMC Clases.py" />
+        <option value="$PROJECT_DIR$/TP Final.py" />
+        <option value="$PROJECT_DIR$/asd.py" />
+        <option value="$PROJECT_DIR$/TP Bajo Nivel - MMC.py" />
+        <option value="$PROJECT_DIR$/TP Gian.py" />
+        <option value="$PROJECT_DIR$/asdasdas.py" />
+        <option value="$PROJECT_DIR$/asdas.py" />
+        <option value="$PROJECT_DIR$/MMC/Trabajo Practico de bajo nivel/TP Bajo Nivel - MMC.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="960" />
+    <option name="width" value="960" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Proyectos Python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Proyectos Python" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Proyectos Python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Proyectos Python" type="462c0819:PsiDirectoryNode" />
+              <item name="MMC" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Proyectos Python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Proyectos Python" type="462c0819:PsiDirectoryNode" />
+              <item name="MMC" type="462c0819:PsiDirectoryNode" />
+              <item name="Trabajo Practico de bajo nivel" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/MMC" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Mellis\Desktop\Gonza\Proyectos Python\MMC\Trabajo Practico de bajo nivel" />
+      <recent name="C:\Users\Mellis\Desktop\Gonza\Proyectos Python\MMC\Trabajo Practico Bajo Nivel" />
+      <recent name="C:\Users\Mellis\Desktop\Gonza\Proyectos Python\MMC" />
+      <recent name="C:\Users\Mellis\Desktop\Gonza\Proyectos Python\Tests\Corridas\CorridasRandomPython" />
+      <recent name="C:\Users\Mellis\Desktop\Gonza\Proyectos Python\Tests\Corridas" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Mellis\Desktop\Gonza\Proyectos Python\MMC" />
+      <recent name="C:\Users\Mellis\Desktop\Gonza\Proyectos Python\Tests\Corridas\RandomOrg" />
+      <recent name="C:\Users\Mellis\Desktop\Gonza\Proyectos Python\Tests\ChiCuadrado\ValoresGenereradosPython" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.TP Bajo Nivel - MMC (1)">
+    <configuration name="Distribucion Exponencial" type="PythonConfigurationType" factoryName="Python">
+      <module name="Proyectos Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\Mellis\Desktop\Gonza\Proyectos Python\Disitrbuciones\Distribucion Exponencial.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TP Bajo Nivel - MMC (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Proyectos Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MMC/Trabajo Practico de bajo nivel" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MMC/Trabajo Practico de bajo nivel/TP Bajo Nivel - MMC.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TP Bajo Nivel - MMC" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Proyectos Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\Mellis\Desktop\Gonza\Proyectos Python\MMC\Trabajo Practico Bajo Nivel\TP Bajo Nivel - MMC.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TP Gian" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Proyectos Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TP Gian.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="asdas" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Proyectos Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/asdas.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="asdasdas" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Proyectos Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/asdasdas.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.TP Bajo Nivel - MMC (1)" />
+        <item itemvalue="Python.asdas" />
+        <item itemvalue="Python.asdasdas" />
+        <item itemvalue="Python.TP Gian" />
+        <item itemvalue="Python.TP Bajo Nivel - MMC" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bb1c2988-0b10-4aaa-a19f-01520e4bd417" name="Default Changelist" comment="" />
+      <created>1552945034206</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552945034206</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.098524764" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32900432" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49947312" weight="0.32900432" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39935064" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32929516" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.33441558" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50052685" side_tool="true" weight="0.32900432" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32929516" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/sdf" />
+    <entry file="file://$PROJECT_DIR$/../../prueba2_Sqlite.py" />
+    <entry file="file://$PROJECT_DIR$/../../prueba1_sqlite.py" />
+    <entry file="file://$USER_HOME$/Proyectos Python/Lib/site-packages/matplotlib/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="1809" selection-start-line="1809" selection-end-line="1809" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ruleta" />
+    <entry file="file://$PROJECT_DIR$/Ruleta otra version" />
+    <entry file="file://$PROJECT_DIR$/Proyecto Python.py" />
+    <entry file="file://$USER_HOME$/Proyectos Python/Lib/site-packages/matplotlib/axes/_base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="230" selection-start-line="230" selection-end-line="230" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Simulador de Distribucion Uniforme" />
+    <entry file="file://$PROJECT_DIR$/asd" />
+    <entry file="file://$PROJECT_DIR$/Simulador de Distribucion Uniforme.py" />
+    <entry file="file://$PROJECT_DIR$/Ruleta otra version.py" />
+    <entry file="file://$USER_HOME$/Proyectos Python/Lib/site-packages/pandas/io/excel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="395" column="43" selection-start-line="395" selection-start-column="43" selection-end-line="395" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Disitrbuciones/Distribucion Uniforme.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Disitrbuciones/Distribucion Exponencial.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="833">
+          <caret line="49" column="16" selection-start-line="49" selection-start-column="16" selection-end-line="49" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Disitrbuciones/Distribucion Gamma.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="28" column="54" lean-forward="true" selection-start-line="28" selection-start-column="54" selection-end-line="28" selection-end-column="54" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CalculadorCostos.py" />
+    <entry file="file://$PROJECT_DIR$/Ruleta.py" />
+    <entry file="file://$PROJECT_DIR$/Disitrbuciones/Distribucion Poisson.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="18" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Disitrbuciones/Distribucion Empirica.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Disitrbuciones/Distribucion Binomial.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="45" column="60" selection-start-line="45" selection-start-column="60" selection-end-line="45" selection-end-column="60" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Disitrbuciones/Distribucion Normal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="43" selection-start-line="20" selection-start-column="43" selection-end-line="20" selection-end-column="43" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/asdsdas.py" />
+    <entry file="file://$PROJECT_DIR$/asdasdasds.py" />
+    <entry file="file://$PROJECT_DIR$/adasda.py" />
+    <entry file="file://$PROJECT_DIR$/AdivinaDistribuciones/Adivinar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="14" selection-end-line="71" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ChiCuadrado/ChiCuadrado.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="33" selection-start-line="28" selection-start-column="33" selection-end-line="28" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tests/Series/Serie.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tests/ChiCuadrado/ValoresGeneradosRandomOrg/ValoresRandomOrg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="16" lean-forward="true" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tests/Corridas/GCL/GCL.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="31" column="16" lean-forward="true" selection-start-line="31" selection-start-column="16" selection-end-line="31" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generacion de Numeros Cuadrados/NumerosCuadrados.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="26" lean-forward="true" selection-start-column="26" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tests/Corridas/RandomOrg/RandomOrg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tests/ChiCuadrado/GCL/GCL.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="519">
+          <caret line="37" column="9" selection-start-line="37" selection-start-column="9" selection-end-line="37" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tests/ChiCuadrado/ValoresGenereradosPython/ValoresRandomUniformes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="32" column="23" selection-start-line="32" selection-start-column="23" selection-end-line="32" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tests/Corridas/RandomPython/Corridas.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pytube.py" />
+    <entry file="file://$PROJECT_DIR$/../../Trabajo Nuevo.py" />
+    <entry file="file://$PROJECT_DIR$/MM1/MM1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="538">
+          <caret line="121" column="20" selection-end-line="154" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TP Final.py" />
+    <entry file="file://$PROJECT_DIR$/MMC/MMC Clases.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3882">
+          <caret line="39" column="31" lean-forward="true" selection-start-line="39" selection-start-column="31" selection-end-line="39" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TP Gian.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="207" column="48" lean-forward="true" selection-start-line="207" selection-start-column="48" selection-end-line="207" selection-end-column="48" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MMC/MMC Dinamico.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="538">
+          <caret line="240" selection-start-line="240" selection-end-line="240" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MMC/MMC Procedural.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="538">
+          <caret line="257" column="7" selection-start-line="257" selection-start-column="7" selection-end-line="257" selection-end-column="7" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/random.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="260" selection-start-line="260" selection-end-line="260" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/asdasdas.py" />
+    <entry file="file://$PROJECT_DIR$/MMC/Trabajo Practico de bajo nivel/TP Bajo Nivel - MMC.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="392" column="27" selection-start-line="392" selection-start-column="27" selection-end-line="392" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/asdas.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1776">
+          <caret line="243" column="45" selection-start-line="243" selection-start-column="45" selection-end-line="243" selection-end-column="45" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
